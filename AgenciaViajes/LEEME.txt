@@ -1,0 +1,9 @@
+Version Final del proyecto Agencia de Viajes
+Diseño hecho en Java Swing y JasperReports
+Base de Datos MYSQL
+
+Cambiar los parámetros de la clase Conexion para establecer
+la conexión con la BD. 
+Editar la configuración de JasperReport en caso de querer
+imprimir nuevas tablar 
+IMPORTANTE: Adjuntar al proyecto los .jar 
